@@ -16,3 +16,5 @@
 
 The cover page is shown as below
 
+![image](assets/pics/cover.png)
+
