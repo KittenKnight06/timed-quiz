@@ -35,7 +35,7 @@ var timer = document.querySelector("#startQuiz");
 var questionsDiv = document.querySelector("#questionsDiv");
 var wrapper = document.querySelector("#wrapper");
 
-var secondsLeft = 51;
+var secondsLeft = 50;
 var holdInterval = 0;
 var penalty = 5;
 
